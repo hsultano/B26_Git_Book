@@ -1,8 +1,8 @@
 
 
-This is my book
-Page 1 will help us get started
+This is my book.
+
+(Page 1 will help us get started)
 
 Java is cool
-
 James Bond is always with us
